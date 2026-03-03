@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: Not yet published
-  role: 
-  duration: 
-  # url: "#"
-  description: 
+# 
+- project: Scene Switcher Window - Instant Access & Grouping
+  #role: 
+  #duration: 
+  #url: 
+  description: UnityEditor extension designed to make scene switches in Unity as smooth as possible.<br>comming soon...
 
-# Springfield Community Outreach Group
-#- project: Springfield Community Outreach Group
+# 
+- project: Others
 #  role: Co-Founder & Organizer
 #  duration: 2007 &mdash; Present
 #  # url: "#"
-#  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: I have several tools currently in development, including GUI-based utilities for standardized asset import settings and behavior visualization tools for streamlined debugging. These projects aim to automate repetitive tasks and provide clearer insights during the development process.
